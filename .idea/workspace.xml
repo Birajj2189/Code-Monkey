@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9826e4fe-75ed-497d-a129-edcf40bfe9a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../BASIC/BirajMahanta.github.io-master/CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BASIC/BirajMahanta.github.io-master/IMAGES/Food Website.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BASIC/BirajMahanta.github.io-master/IMAGES/Spotify clone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BASIC/BirajMahanta.github.io-master/IMAGES/Text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BASIC/BirajMahanta.github.io-master/IMAGES/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BASIC/BirajMahanta.github.io-master/IMAGES/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BASIC/BirajMahanta.github.io-master/IMAGES/main-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BASIC/BirajMahanta.github.io-master/IMAGES/myImg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BASIC/BirajMahanta.github.io-master/IMAGES/you!.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BASIC/BirajMahanta.github.io-master/JS/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BASIC/BirajMahanta.github.io-master/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
+  </component>
+  <component name="ProjectId" id="2Gw7fegEGdH4LyizEyOyPG0WxJU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="MTHome" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9826e4fe-75ed-497d-a129-edcf40bfe9a0" name="Default Changelist" comment="" />
+      <created>1667287902027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667287902027</updated>
+    </task>
+    <servers />
+  </component>
+</project>

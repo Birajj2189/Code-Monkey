@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap');
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #D7FBE8;
+}
+::-webkit-scrollbar-thumb {
+  background: #1FAB89;
+  border-radius: 10px;
+}
+
+*{
+  transition: all 0.2s ease-in-out;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+  /* font-family: 'Dancing Script', cursive; */
+
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+   font-family: 'Quicksand', sans-serif;
+}
+.title{
+  display: block;
+  margin: auto;
+  width: min-content;
+}
+
+/* @media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background: black;
+  }
+} */

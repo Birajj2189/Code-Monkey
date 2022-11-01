@@ -1,0 +1,7 @@
+{
+     "title" : "Rapid and Sustainable Software Creation in Swift Through Declarative Domain Paradigm",
+     "description" : "Real world objects are subject to the “Production Problem”: While designing those objects can be an interesting and challenging task, the real challenges lay within scaling up production to create thousands and millions of copies while consistent quality is being maintained over time. The omnipresence of this production model has created the assumption that it is generally true. But this isn't the case with software: there are nearly no challenges and costs in deploying or copying code or bytes. The difficult parts are solely in Design, Exploration, and Discovery. I want to show how we can write better software faster by using the scientific tool- and mindset. But why is this necessary? I share Alan Kays's observation that he presents in his talk “Living organisms can’t survive in their own waste products”, that the most proficient development happens at the sweet spot where Tinkering, Engineering, Math, and Science overlap. But the truth is that by far most development happens with a lot of tinkering, while only very little engineering and even less math are used. I also agree with Kay, that many software teams even ignore engineering and science completely.",
+     "author" : "Manuel Meyer",
+     "reviews" : "4",
+     "slug" : "Rapid-and-Sustainable-Software-Creation-in-Swift-Through-Declarative-Domain-Paradigm"
+}
